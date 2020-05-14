@@ -253,8 +253,8 @@ We are not accepting contributions at this time. If you have any questions about
 
 -   **Where can I see more examples on how to use Lightning Web Components?**
 
-    -   For examples on running Lightning Web Components on Salesforce platform, visit [lwc-recipes](https://github.com/trailheadapps/lwc-recipes/).
-    -   For more sample apps using Lightning Web Components, visit https://trailhead.salesforce.com/sample-gallery.
+    -   要访问更多示例 [lwc-recipes](https://github.com/trailheadapps/lwc-recipes/).
+    -   访问更对示例app： https://trailhead.salesforce.com/sample-gallery.
     -   To experience Lightning Web Components on any platform, visit https://lwc.dev.
 
 -   **How do I create a Lightning Web Component?**
